@@ -1,0 +1,7 @@
+build/
+__pycache__/
+.scrapy/
+.DS_Store
+*.egg-info/
+*.jl
+

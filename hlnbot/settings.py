@@ -1,0 +1,4 @@
+BOT_NAME = 'hlnbot'
+SPIDER_MODULES = ['hlnbot.spider']
+HTTPCACHE_ENABLED = True
+DOWNLOAD_DELAY = 1.0
